@@ -2,3 +2,6 @@
 **/target
 **/dependency-reduced-pom.xml
 **/*.iml
+operations-playground/flink-checkpoints-directory/
+operations-playground/flink-savepoints-directory/
+operations-playground/kafka/

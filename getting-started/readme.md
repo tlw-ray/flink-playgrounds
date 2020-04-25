@@ -12,5 +12,3 @@
 - Stateful Streaming: Flink Index --> Overview --> Examples --> Overview --> How to build stateful streaming application with Apache Flink
 - Realtime ELK: Flink Index --> Overview --> Examples --> Overview --> Build real-time dashboard applications with Apache Flink, Elasticsearch, and Kibana
 - Flink Training: Flink Index --> Overview --> Examples --> Overview --> Flink training website
-
-
